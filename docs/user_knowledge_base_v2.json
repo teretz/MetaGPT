@@ -1,0 +1,95 @@
+{
+    "Mech Game Mechanics": {
+        "Mech Attributes": "Types, Modules, Systems, Stats, etc.",
+        "Pilot Attributes": "Background, Skills, Inventory, etc.",
+        "Special Actions & Conditions": "Things like Overpower, Hacking, etc.",
+        "Range Types": "Close, Medium, Long, etc.",
+        "Damage Types": "SP, HP, etc.",
+        "Gameplay Phases": "Turn Order, Actions, etc.",
+        "Traits & Features": "Vulnerable, Climber, etc.",
+        "Social Interactions": "Dialogue options, NPC interactions, etc.",
+        "Questions & Answers Mechanic": "Allows pilots to gain information.",
+        "Resource Types": "Scrap, Food, etc.",
+        "Cockpit & Seating": "All mechs and walkers have cockpits or seating areas for pilots."
+    },
+    "Additional Gameplay Concepts": {
+        "Real-Time Gameplay with Permadeath": "The game is played in real-time and features permadeath.",
+        "Community Inside Giant Walkers": "A living community inside giant mechs that serve as mobile bases.",
+        "Personal Mechs for Raider Occupants": "Smaller mechs that can be used for raiding and other missions.",
+        "Bay Doors for Deploying/Retrieving Mechs": "Mechs can be deployed and retrieved through special bay doors.",
+        "Enhancing Replacement Clones": "Players can spend resources to enhance clones that replace them upon death.",
+        "Boarding State for Personal Mechs": "Personal mechs have a 'boarding state' where they submit to the owner, allowing the owner to enter the cockpit and take control. This is wristwatch-controlled."
+    },
+    "Game Mechanics": {
+        "Game Modes": {
+            "3-Player Raid": "A cooperative mission featuring one human player and two AI-controlled allies.",
+            "Persistent Survival Mission": "A continuous mission focused on the main walker's survival."
+        },
+        "Walker Controls": {
+            "Defensive Mode": "An option to park the walker in a defensive posture to reduce damage and deter enemies."
+        },
+        "Technology": {
+            "Procedural Generation": "Toolkits for creating a variety of game elements like walker/mecha interiors, locations, dungeons, waypoints, and racetracks.",
+            "Voice SDK": "Natural Language Processing for in-game voice commands."
+        },
+        "AI Assistance": {
+            "Voice Commands": "Ability to issue a wide range of commands to AI, from tactical instructions to errands like 'going to the grocery store'."
+        },
+        "Repair and Crafting": {
+            "Scrap Materials": "Materials can be scrapped to repair walkers and mechs.",
+            "Specialized Rooms": "Certain repairs can only be carried out in rooms with specialized technology, like a forge."
+        },
+        "Player Interaction": {
+            "Communication": "Players can talk to each other.",
+            "Freedom of Movement": "Players are not restricted to staying on board the walker."
+        }
+    },
+    "Game Mechanics and Features": {
+        "Skill Tree for AI Assists": "Introduce a skill tree that allows the player to customize the capabilities of the AI, including combat styles, utility functions, and social interactions.",
+        "Crafting & Upgrades": "Crafting system for creating new Modules, Systems, and rooms for the walker using scrap and resources. Special blueprints could be required for advanced items.",
+        "Dynamic World Events": "Procedurally generated world events like sudden sandstorms or unexpected mech patrols that can change mission objectives.",
+        "Social Hub inside the Walker": "A social hub inside the walker where players can interact, trade, and plan missions.",
+        "Voice-Activated Commands": "Use NLP and voice SDK to allow players to issue complex commands to their mechs or the walker through voice.",
+        "Walker Management UI": "User interface for managing different aspects of the walker, such as deploying defensive measures or initiating self-repair sequences.",
+        "Economy & Bartering": "In-game economy for trading or bartering specific items based on different tech levels.",
+        "Multiplayer Co-op Missions": "Larger co-op missions and PvP modes for added variety.",
+        "NPCs & Quests": "Introduce NPCs and quests to provide a storyline or additional objectives.",
+        "Customizable Interior": "Allow players to customize the interior of their personal mechs and the main walker."
+    },
+    "Game Concepts": {
+        "Game Mechanics": {
+            "Permadeath": "Once you die, you lose your character and its belongings.",
+            "Realtime": "Actions and events occur in real-time, not turn-based.",
+            "In-Game Economy": "You can spend money to enhance your replacement clone and other upgrades."
+        },
+        "Mechs & Walkers": {
+            "Types": [
+                "Combat Mechs",
+                "Hacking Mechs",
+                "Salvaging Mechs"
+            ],
+            "Controls": "All mechs and walkers have cockpits or seating for pilots.",
+            "Boarding State": "Mechs have a 'submitting' state where they open up for the owner to board.",
+            "Ownership": "Controlled via a wrist-watch-like device."
+        },
+        "Community Inside Walkers": {
+            "Personal Mechs": "Available for raider occupants to pirate and plunder freely.",
+            "Bay Doors": "Allows players to drop as mecha from the giant walker base."
+        },
+        "Piracy & Plundering": {
+            "Capture Mechs": "Mechs can be captured and added to your inventory.",
+            "Hacking": "Used for capturing mechs, among other things."
+        },
+        "Resource Management": {
+            "Scrap and Gear": "Can be collected and is kept even after death.",
+            "Resource Drop-off": "Resources can be dropped off back at the walker base."
+        },
+        "3-Player Raid": "Include a game mode where one player and two AI-assisted mechs team up for specialized missions.",
+        "Persistent Survival Mission": "A continual mission for the main walker to gather resources and survive attacks from enemies.",
+        "Walker Defensive Mode": "Ability for the walker to go into a defensive mode where it uses automated systems to defend itself.",
+        "Procedural Generation Toolkits": "Use proc-gen algorithms to create interiors, locations, dungeons, waypoints, and racetracks.",
+        "Voice SDK and NLP": "Implement a voice SDK to give commands to AI, using natural language processing to understand complex instructions.",
+        "Specialized Rooms in Walker": "Include rooms like forges that offer unique repair and crafting options, making some repairs easier.",
+        "Player Communication": "Allow players to communicate freely and leave the walker if they choose to."
+    }
+}

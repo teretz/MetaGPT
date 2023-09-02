@@ -1,0 +1,326 @@
+{
+    "Weapons and Mechs": {
+        "Desert Blade - Model DB-217": {
+            "Stats": "Length: 36 inches, Weight: 5.2 lbs, Material: Heat-Treated Alloy",
+            "Description": "The DB-217 is a heat-treated alloy blade designed for desert combat. Its serrated edge is coated with a sand-resistant polymer, allowing for smooth cuts even in gritty conditions. The hilt contains a vibration control module for precise strikes."
+        },
+        "Sunburst Cannon - Model SC-489": {
+            "Stats": "Range: 800 meters, Weight: 15 lbs, Power Source: Solar Cells",
+            "Description": "The SC-489 Sunburst Cannon is a shoulder-mounted energy weapon. It utilizes high-efficiency solar cells to charge its heat ray emitter. The intensity control allows for adjustable firepower, making it versatile in various combat scenarios."
+        },
+        "Wind Glider Bow - Model WGB-322": {
+            "Stats": "Range: 400 meters, Weight: 3 lbs, Draw Weight: 50 lbs",
+            "Description": "The WGB-322 Wind Glider Bow is a lightweight composite bow designed for desert wind manipulation. Its aerodynamic arrows are equipped with micro-turbines that guide them using wind currents, ensuring accuracy even in turbulent conditions."
+        },
+        "Stonebreaker Gauntlets - Model SG-715": {
+            "Stats": "Weight: 10 lbs per gauntlet, Material: Reinforced Titanium",
+            "Description": "The SG-715 Stonebreaker Gauntlets are heavy-duty melee weapons. Built with reinforced titanium and equipped with seismic actuators, they deliver powerful ground-shaking attacks. The rock armor protection ensures durability in harsh environments."
+        },
+        "Dune Drifter Pistol - Model DDP-109": {
+            "Stats": "Range: 200 meters, Weight: 2.5 lbs, Caliber: 10mm",
+            "Description": "The DDP-109 Dune Drifter Pistol is a compact sidearm designed for desert combat. Its sand-resistant coating and laser-guided targeting system ensure precision, while the quick-reload mechanism allows for rapid firing."
+        },
+        "Sand Serpent Mech - Model SS-920": {
+            "Stats": "Height: 12 feet, Weight: 8 tons, Speed: 60 mph",
+            "Description": "The SS-920 is designed for swift desert movement, with a serpentine body and sand camouflage technology. Its rapid strike arms are equipped with high-speed melee blades, allowing for quick and precise attacks."
+        },
+        "Dune Walker Mech - Model DW-347": {
+            "Stats": "Height: 15 feet, Weight: 10 tons, Speed: 40 mph",
+            "Description": "The DW-347 is built for traversing dunes effortlessly, with elongated legs and advanced navigation systems. Its sniper weaponry allows for accurate long-range combat, making it a formidable presence in the desert landscape."
+        },
+        "Sun Scorcher Mech - Model SC-511": {
+            "Stats": "Height: 14 feet, Weight: 9 tons, Power Source: Solar Cells",
+            "Description": "The SC-511 harnesses solar energy for its weaponry, including a powerful heat ray cannon. Its bright and radiant design reflects the desert sun, and its energy-efficient systems make it a sustainable combat machine."
+        },
+        "Wind Whisperer Mech - Model WW-286": {
+            "Stats": "Height: 13 feet, Weight: 7 tons, Speed: 50 mph",
+            "Description": "The WW-286 is aerodynamically designed to control wind currents. Its lightweight frame and wind manipulation wings allow for enhanced maneuverability, and its tornado attack generator can create localized tornadoes to disrupt enemies."
+        },
+        "Stone Sentinel Mech - Model SS-638": {
+            "Stats": "Height: 16 feet, Weight: 12 tons, Armor: Rock-Plated",
+            "Description": "The SS-638 is a rugged and robust Mech, built with rock-plated armor to withstand harsh desert conditions. Its seismic smash hammer delivers powerful ground-shaking attacks, making it a formidable sentinel of the desert."
+        }
+    },
+    "Game Development Concepts": {
+        "Detailed Items": {
+            "Fusion Blaster X-9": {
+                "Type": "Weapon",
+                "Weight": "8 lbs",
+                "Sell Price": "2500 Credits",
+                "Rarity": "Legendary",
+                "Stats": {
+                    "Damage": "45-55",
+                    "Range": "200 meters",
+                    "Ammo": "Plasma Cells"
+                },
+                "Description": "A hand-crafted energy weapon that uses plasma cells. Features a cooling system to manage heat."
+            },
+            "Stealth Boots S-2": {
+                "Type": "Armor",
+                "Weight": "2 lbs",
+                "Sell Price": "800 Credits",
+                "Rarity": "Rare",
+                "Stats": {
+                    "Armor": "+10",
+                    "Special": "Silent Movement"
+                },
+                "Description": "Lightweight boots designed for stealth operations. Made from noise-dampening materials."
+            },
+            "Bio-Regen Medkit": {
+                "Type": "Utility",
+                "Weight": "1 lb",
+                "Sell Price": "200 Credits",
+                "Rarity": "Common",
+                "Stats": {
+                    "Heal": "50 HP over 5 seconds",
+                    "Special": "Removes status ailments"
+                },
+                "Description": "A portable medkit that not only heals but also cures any minor status ailments."
+            },
+            "Quantum Grappling Hook Q-4": {
+                "Type": "Utility",
+                "Weight": "3 lbs",
+                "Sell Price": "1200 Credits",
+                "Rarity": "Epic",
+                "Stats": {
+                    "Range": "50 meters",
+                    "Cooldown": "10 seconds"
+                },
+                "Description": "A versatile grappling hook that uses quantum tech to phase through obstacles."
+            }
+        }
+    },
+    "Game Elements": {
+        "Items": [
+            {
+                "Name": "Sub-Machine Gun SM-7",
+                "Type": "Weapon",
+                "Weight": "6 lbs",
+                "Sell Price": "1500 Credits",
+                "Rarity": "Common",
+                "Stats": {
+                    "Damage": "20-25",
+                    "Range": "100 meters",
+                    "Ammo": "9mm rounds"
+                },
+                "Description": "A compact sub-machine gun, ideal for close-quarter combat."
+            },
+            {
+                "Name": "Glock G-19",
+                "Type": "Weapon",
+                "Weight": "2 lbs",
+                "Sell Price": "800 Credits",
+                "Rarity": "Common",
+                "Stats": {
+                    "Damage": "18-22",
+                    "Range": "50 meters",
+                    "Ammo": "9mm rounds"
+                },
+                "Description": "A reliable semi-automatic pistol."
+            },
+            {
+                "Name": "Hunting Rifle HR-12",
+                "Type": "Weapon",
+                "Weight": "9 lbs",
+                "Sell Price": "2000 Credits",
+                "Rarity": "Rare",
+                "Stats": {
+                    "Damage": "60-75",
+                    "Range": "300 meters",
+                    "Ammo": ".308 rounds"
+                },
+                "Description": "A bolt-action rifle designed for long-range accuracy."
+            },
+            {
+                "Name": "Crossbow X-1",
+                "Type": "Weapon",
+                "Weight": "7 lbs",
+                "Sell Price": "1200 Credits",
+                "Rarity": "Epic",
+                "Stats": {
+                    "Damage": "55-65",
+                    "Range": "100 meters",
+                    "Ammo": "Bolts"
+                },
+                "Description": "A modern crossbow with advanced aiming capabilities."
+            },
+            {
+                "Name": "AKM Assault Rifle",
+                "Type": "Weapon",
+                "Weight": "8 lbs",
+                "Sell Price": "2500 Credits",
+                "Rarity": "Legendary",
+                "Stats": {
+                    "Damage": "30-40",
+                    "Range": "200 meters",
+                    "Ammo": "7.62x39mm rounds"
+                },
+                "Description": "A classic assault rifle known for its durability and firepower."
+            },
+            {
+                "Name": "Desert Eagle DE-50",
+                "Type": "Weapon",
+                "Weight": "4 lbs",
+                "Sell Price": "1800 Credits",
+                "Rarity": "Epic",
+                "Stats": {
+                    "Damage": "50-60",
+                    "Range": "100 meters",
+                    "Ammo": ".50 AE rounds"
+                },
+                "Description": "A heavy-duty pistol with devastating stopping power."
+            },
+            {
+                "Name": "Hockey Mask",
+                "Type": "Armor",
+                "Weight": "1 lb",
+                "Sell Price": "300 Credits",
+                "Rarity": "Common",
+                "Stats": {
+                    "Armor": "+5",
+                    "Special": "Identity Concealment"
+                },
+                "Description": "A mask offering basic facial protection and identity concealment."
+            }
+        ],
+        "Items and Attachments": {
+            "Attachments": [
+                {
+                    "Name": "Red Dot Sight",
+                    "Type": "Attachment",
+                    "Compatible With": [
+                        "Pistol",
+                        "Assault Rifle",
+                        "Rifle",
+                        "Submachine Gun",
+                        "Desert Eagle"
+                    ],
+                    "Effect": "Accuracy Boost: 10",
+                    "Weight": 0.2,
+                    "Sell Price": "$100",
+                    "Rarity": "Common"
+                },
+                {
+                    "Name": "Extended Magazine",
+                    "Type": "Attachment",
+                    "Compatible With": {
+                        "Pistol": "9mm, .45 ACP",
+                        "Assault Rifle": "5.56mm, 7.62mm",
+                        "Submachine Gun": "9mm"
+                    },
+                    "Effect": "Ammo Capacity Boost: 15",
+                    "Weight": 0.3,
+                    "Sell Price": "$75",
+                    "Rarity": "Common"
+                },
+                {
+                    "Name": "Suppressor",
+                    "Type": "Attachment",
+                    "Compatible With": {
+                        "Pistol": ".45 ACP",
+                        "Assault Rifle": "5.56mm",
+                        "Submachine Gun": "9mm"
+                    },
+                    "Effect": "Noise Reduction: 20",
+                    "Weight": 0.5,
+                    "Sell Price": "$150",
+                    "Rarity": "Uncommon"
+                },
+                {
+                    "Name": "Sniper Scope",
+                    "Type": "Attachment",
+                    "Compatible With": [
+                        "Rifle",
+                        "Desert Eagle"
+                    ],
+                    "Effect": "Zoom Level: 4",
+                    "Weight": 0.6,
+                    "Sell Price": "$200",
+                    "Rarity": "Rare"
+                },
+                {
+                    "Name": "Laser Sight",
+                    "Type": "Attachment",
+                    "Compatible With": [
+                        "Pistol",
+                        "Assault Rifle",
+                        "Desert Eagle"
+                    ],
+                    "Effect": "Accuracy Boost: 15",
+                    "Weight": 0.2,
+                    "Sell Price": "$125",
+                    "Rarity": "Uncommon"
+                }
+            ]
+        }
+    },
+    "Game Mechanics": {
+        "Items and Attachments": {
+            "Attachments": [
+                {
+                    "Name": "Red Dot Sight",
+                    "Type": "Attachment",
+                    "Compatible With": [
+                        "Pistol",
+                        "Assault Rifle",
+                        "Rifle",
+                        "Submachine Gun"
+                    ],
+                    "Accuracy Boost": 10,
+                    "Weight": 0.2,
+                    "Sell Price": "$100",
+                    "Rarity": "Common"
+                },
+                {
+                    "Name": "Extended Magazine",
+                    "Type": "Attachment",
+                    "Compatible With": [
+                        "Pistol",
+                        "Assault Rifle",
+                        "Submachine Gun"
+                    ],
+                    "Ammo Capacity Boost": 15,
+                    "Weight": 0.3,
+                    "Sell Price": "$75",
+                    "Rarity": "Common"
+                },
+                {
+                    "Name": "Suppressor",
+                    "Type": "Attachment",
+                    "Compatible With": [
+                        "Pistol",
+                        "Assault Rifle",
+                        "Submachine Gun"
+                    ],
+                    "Noise Reduction": 20,
+                    "Weight": 0.5,
+                    "Sell Price": "$150",
+                    "Rarity": "Uncommon"
+                },
+                {
+                    "Name": "Sniper Scope",
+                    "Type": "Attachment",
+                    "Compatible With": [
+                        "Rifle"
+                    ],
+                    "Zoom Level": 4,
+                    "Weight": 0.6,
+                    "Sell Price": "$200",
+                    "Rarity": "Rare"
+                },
+                {
+                    "Name": "Laser Sight",
+                    "Type": "Attachment",
+                    "Compatible With": [
+                        "Pistol",
+                        "Assault Rifle"
+                    ],
+                    "Accuracy Boost": 15,
+                    "Weight": 0.2,
+                    "Sell Price": "$125",
+                    "Rarity": "Uncommon"
+                }
+            ]
+        }
+    }
+}

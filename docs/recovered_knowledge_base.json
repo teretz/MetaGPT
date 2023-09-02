@@ -1,0 +1,234 @@
+{
+    "Mech Classes": [
+        {
+            "Name": "Desert Strider",
+            "Model": "DS-303",
+            "Stats": "Height: 16 feet, Weight: 12 tons, Speed: 40 mph",
+            "Description": "Designed for desert combat, equipped with heat-resistant armor and long-range missile systems."
+        },
+        {
+            "Name": "Mountain Mauler",
+            "Model": "MM-215",
+            "Stats": "Height: 14 feet, Weight: 10 tons, Speed: 30 mph",
+            "Description": "Built for rocky terrains, features climbing capabilities and heavy artillery."
+        }
+    ],
+    "Weaponry": [
+        {
+            "Name": "Plasma Rifle",
+            "Model": "PR-827",
+            "Stats": "Range: 800 meters, Weight: 15 lbs, Power Source: Energy Cells",
+            "Description": "Long-range energy weapon, capable of piercing most armors."
+        },
+        {
+            "Name": "Laser Sword",
+            "Model": "LS-412",
+            "Stats": "Length: 4 feet, Weight: 4 lbs, Power Source: Compact Energy Cells",
+            "Description": "Close-quarters combat weapon with an energy blade, capable of cutting through metal."
+        },
+        {
+            "Name": "SMG",
+            "Model": "MP5",
+            "Stats": "Caliber: 9mm, Weight: 6 lbs, Range: 200 meters",
+            "Description": "A compact submachine gun with a high rate of fire, ideal for close-quarters combat.",
+            "Attachments": [
+                "4x Scope",
+                "Suppressor"
+            ],
+            "Weight": "6 lbs",
+            "Sell Price": "$1200",
+            "Rarity": "Common"
+        },
+        {
+            "Name": "Hunting Rifle",
+            "Model": "Remington 700",
+            "Stats": "Caliber: .308 Win, Weight: 8 lbs, Range: 800 meters",
+            "Description": "A long-range bolt-action rifle designed for precise shooting.",
+            "Attachments": [
+                "4x Scope"
+            ],
+            "Weight": "8 lbs",
+            "Sell Price": "$2500",
+            "Rarity": "Rare"
+        },
+        {
+            "Name": "Desert Eagle",
+            "Model": "DE .50",
+            "Stats": "Caliber: .50 AE, Weight: 4.5 lbs, Range: 50 meters",
+            "Description": "A powerful semi-automatic pistol with immense stopping power.",
+            "Attachments": [
+                "4x Scope"
+            ],
+            "Weight": "4.5 lbs",
+            "Sell Price": "$2000",
+            "Rarity": "Epic"
+        },
+        {
+            "Name": "AK-47",
+            "Model": "AKM",
+            "Stats": "Caliber: 7.62x39mm, Weight: 8 lbs, Range: 300 meters",
+            "Description": "A reliable and durable assault rifle with a moderate rate of fire.",
+            "Attachments": [
+                "4x Scope",
+                "Extended Magazine"
+            ],
+            "Weight": "8 lbs",
+            "Sell Price": "$1800",
+            "Rarity": "Uncommon"
+        }
+    ],
+    "Attachments": [
+        {
+            "Name": "4x Scope",
+            "Model": "S-400",
+            "Stats": "Weight: 1 lb, Material: High-Density Glass",
+            "Description": "Increases the effective range of compatible weapons."
+        },
+        {
+            "Name": "Extended Magazine",
+            "Model": "EM-205",
+            "Stats": "Weight: 0.5 lbs, Material: Reinforced Steel",
+            "Description": "Increases the ammo capacity of compatible weapons."
+        },
+        {
+            "Name": "Suppressor",
+            "Model": "SP-103",
+            "Stats": "Weight: 1.2 lbs, Material: Carbon Fiber",
+            "Description": "Reduces noise and muzzle flash for stealth operations."
+        }
+    ],
+    "Game Mechanics": {
+        "Hacking": "Used for disabling or taking control of enemy systems. Can also be used for opening secured doors or hacking into databases.",
+        "Salvaging": "Collect scrap and other materials from defeated enemies or specific points in the map.",
+        "Trading": "Exchange goods and services with NPCs or other players.",
+        "Crafting": "Create new items, attachments, or upgrades using collected materials."
+    },
+    "Game Modes": {
+        "3-Player Raid": "A mode where you and two AI or player teammates go on high-stakes missions for loot and glory.",
+        "Single Player with AI": "You, the player, are assisted by two AI companions in a storyline-driven experience.",
+        "Survival": "A persistent mission mode where the primary objective is to keep your main walker operational while facing continuous challenges."
+    },
+    "Additional Features": {
+        "Real-time gameplay": "Game progresses in real-time, adding a layer of urgency and immersion.",
+        "Permadeath": "Once your character dies, they're gone for good. However, you can invest in a clone with enhancements for your next life.",
+        "Community Focus": "In-game community inside the giant walkers, offering various services and social interactions.",
+        "Voice SDK": "Natural Language Processing for advanced voice-command capabilities with AI.",
+        "Proc-Gen Toolkits": "Procedurally generated interiors, locations, dungeons, etc., for limitless replayability."
+    },
+    "Game World": {
+        "Setting": "Post-apocalyptic Earth",
+        "Themes": [
+            "Survival",
+            "Teamwork",
+            "Exploration"
+        ],
+        "Locations": [
+            "Deserts",
+            "Urban Ruins",
+            "Forests",
+            "Underwater Cities"
+        ]
+    },
+    "Mechanics": {
+        "Movement": [
+            "Walking",
+            "Running",
+            "Jetpacks",
+            "Climbing"
+        ],
+        "Combat": [
+            "Ranged",
+            "Melee",
+            "Explosives",
+            "Stealth"
+        ],
+        "Resource Gathering": [
+            "Mining",
+            "Scavenging",
+            "Trading"
+        ],
+        "Crafting": [
+            "Weapons",
+            "Gear",
+            "Mecha Parts",
+            "Medicine"
+        ],
+        "Hacking": [
+            "Override enemy systems",
+            "Unlock secured areas",
+            "Capture enemy mechs"
+        ]
+    },
+    "Community Features": {
+        "Chat": [
+            "Text",
+            "Voice"
+        ],
+        "Clans": [
+            "Join existing clans",
+            "Create new clans"
+        ],
+        "Trade": [
+            "Items",
+            "Resources",
+            "Information"
+        ],
+        "Raids": [
+            "Coordinate with clan",
+            "Multiplayer"
+        ]
+    },
+    "Player Controls": {
+        "Movement": [
+            "WASD keys",
+            "Joystick"
+        ],
+        "Combat": [
+           "not provdied but for a meta quest 2 headset and touch controllers"
+        ],
+        "Inventory": [
+            "Double tap 'Y' button to open",
+            "Drag and drop to manage",
+            "Double tap again to close with changes",
+            "We always handle changes"
+        ],
+        "Hacking": [
+            "Mini-games",
+            "Command-line interface"
+        ]
+    },
+    "Weapons and Items": {
+        "Weapons": [
+            {
+                "Name": "SMG-15",
+                "Type": "SMG",
+                "Rarity": "Common",
+                "Weight": "5.5 lbs",
+                "Sell Price": "$200"
+            },
+            {
+                "Name": "AKM-72",
+                "Type": "Assault Rifle",
+                "Rarity": "Rare",
+                "Weight": "8.5 lbs",
+                "Sell Price": "$500"
+            }
+        ],
+        "Gear": [
+            {
+                "Name": "Combat Boots",
+                "Type": "Footwear",
+                "Rarity": "Common",
+                "Weight": "2.5 lbs",
+                "Sell Price": "$100"
+            },
+            {
+                "Name": "Kevlar Vest",
+                "Type": "Armor",
+                "Rarity": "Uncommon",
+                "Weight": "5 lbs",
+                "Sell Price": "$300"
+            }
+        ]
+    }
+}
